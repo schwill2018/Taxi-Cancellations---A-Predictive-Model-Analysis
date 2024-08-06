@@ -12,7 +12,7 @@ Models:
   The data was provided by the academic institution and professor to complete this project, and is restricted. As such, it is not provided in this repository.
 
 
-Link to the PowerPoint Presentation (web-based):\
+Link to the PowerPoint Presentation (web-based):
 
 https://docs.google.com/presentation/d/1rkx9IXgQH_A088ZDVaiMZRnapJuxT5_iFUghQDCgrp0/edit?usp=sharing
 
